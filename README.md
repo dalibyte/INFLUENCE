@@ -53,7 +53,7 @@ All data is from public record. No API keys required. No authentication. 100% le
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/influence-platform.git
+git clone https://github.com/dalibyte/INFLUENCE.git
 cd influence-platform
 npm install
 npm start
